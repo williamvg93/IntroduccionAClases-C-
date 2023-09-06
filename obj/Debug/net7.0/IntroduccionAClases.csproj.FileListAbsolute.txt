@@ -1,0 +1,14 @@
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\bin\Debug\net7.0\IntroduccionAClases.exe
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\bin\Debug\net7.0\IntroduccionAClases.deps.json
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\bin\Debug\net7.0\IntroduccionAClases.runtimeconfig.json
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\bin\Debug\net7.0\IntroduccionAClases.dll
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\bin\Debug\net7.0\IntroduccionAClases.pdb
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\obj\Debug\net7.0\IntroduccionAClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\obj\Debug\net7.0\IntroduccionAClases.AssemblyInfoInputs.cache
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\obj\Debug\net7.0\IntroduccionAClases.AssemblyInfo.cs
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\obj\Debug\net7.0\IntroduccionAClases.csproj.CoreCompileInputs.cache
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\obj\Debug\net7.0\IntroduccionAClases.dll
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\obj\Debug\net7.0\refint\IntroduccionAClases.dll
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\obj\Debug\net7.0\IntroduccionAClases.pdb
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\obj\Debug\net7.0\IntroduccionAClases.genruntimeconfig.cache
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\obj\Debug\net7.0\ref\IntroduccionAClases.dll
