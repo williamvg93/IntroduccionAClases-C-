@@ -12,3 +12,17 @@ C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\obj\Debug\
 C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\obj\Debug\net7.0\IntroduccionAClases.pdb
 C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\obj\Debug\net7.0\IntroduccionAClases.genruntimeconfig.cache
 C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IntroduccionAClases\obj\Debug\net7.0\ref\IntroduccionAClases.dll
+D:\Programacion\Campus2023\C#\Class\IntroduccionAClases-C-\bin\Debug\net7.0\IntroduccionAClases.exe
+D:\Programacion\Campus2023\C#\Class\IntroduccionAClases-C-\bin\Debug\net7.0\IntroduccionAClases.deps.json
+D:\Programacion\Campus2023\C#\Class\IntroduccionAClases-C-\bin\Debug\net7.0\IntroduccionAClases.runtimeconfig.json
+D:\Programacion\Campus2023\C#\Class\IntroduccionAClases-C-\bin\Debug\net7.0\IntroduccionAClases.dll
+D:\Programacion\Campus2023\C#\Class\IntroduccionAClases-C-\bin\Debug\net7.0\IntroduccionAClases.pdb
+D:\Programacion\Campus2023\C#\Class\IntroduccionAClases-C-\obj\Debug\net7.0\IntroduccionAClases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\Campus2023\C#\Class\IntroduccionAClases-C-\obj\Debug\net7.0\IntroduccionAClases.AssemblyInfoInputs.cache
+D:\Programacion\Campus2023\C#\Class\IntroduccionAClases-C-\obj\Debug\net7.0\IntroduccionAClases.AssemblyInfo.cs
+D:\Programacion\Campus2023\C#\Class\IntroduccionAClases-C-\obj\Debug\net7.0\IntroduccionAClases.csproj.CoreCompileInputs.cache
+D:\Programacion\Campus2023\C#\Class\IntroduccionAClases-C-\obj\Debug\net7.0\IntroduccionAClases.dll
+D:\Programacion\Campus2023\C#\Class\IntroduccionAClases-C-\obj\Debug\net7.0\refint\IntroduccionAClases.dll
+D:\Programacion\Campus2023\C#\Class\IntroduccionAClases-C-\obj\Debug\net7.0\IntroduccionAClases.pdb
+D:\Programacion\Campus2023\C#\Class\IntroduccionAClases-C-\obj\Debug\net7.0\IntroduccionAClases.genruntimeconfig.cache
+D:\Programacion\Campus2023\C#\Class\IntroduccionAClases-C-\obj\Debug\net7.0\ref\IntroduccionAClases.dll

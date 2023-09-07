@@ -3,26 +3,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks; */
 
+using System.Collections;
+
 namespace IntroduccionAClases.Entities;
 
 public class Student
 {
     /* public int Id { get; set;} */
-    private int id;
+    private string id;
     /* private int ? id { get; set; } */
     private string name;
     private string email;
     private int age;
 
     /* Propiedades de Clase */
-
-/*  private int myVar;
-    public int MyProperty
-    {
-        get { return myVar; }
-        set { myVar = value; }
-    } */
-    public int Id
+    public string Id
     {
         get { return id; }
         set { id = value; }
@@ -50,7 +45,7 @@ public class Student
 
     }
     /* Contructor */
-    public Student(int id, string name, string email, int age){
+    public Student(string id, string name, string email, int age){
         this.id = id;
         this.name = name;
         this.email = email;
@@ -58,8 +53,18 @@ public class Student
     }
 
     public Array GetAllData(){
-        string[] numeros = {Convert.ToString(id), name, email, Convert.ToString(age)};
+        string[] numeros = {id, name, email, Convert.ToString(age)};
         return numeros; 
+    }
+
+    public ArrayList NewStuData(){
+        ArrayList newStud = new ArrayList(){
+            id,
+            name,
+            age,
+            email
+        };
+        return newStud;
     }
 
 }
