@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Reflection.Metadata;
 using IntroduccionAClases.Entities;
+
+/* var table = new Table(); */
 ArrayList studentList = new ArrayList();
 Student student = new Student();
 int contStu;
@@ -16,7 +18,8 @@ while (cont < contStu)
     student.Email = Console.ReadLine();
     Console.WriteLine("Enter the Age");
     student.Age = Convert.ToInt16(Console.ReadLine());
-    ArrayList studentData = student.NewStuData();
+    Array  studentData =  student.GetAllData();
+    /* ArrayList studentData = student.NewStuData(); */
     studentList.Add(studentData);
     cont++;
 }
@@ -33,21 +36,32 @@ while (cont < contStu)
         {
             Console.Write($"{dStudent} \t");
         } */
+
+
+
 ArrayList datosSt = new ArrayList();
 Console.WriteLine($"longitus del la lista : {studentList.Count}");
 
-for (int i = 0; i < studentList.Count; i++) {
+/* for (int i = 0; i < studentList.Count; i++) {
     foreach (var element in (ArrayList)studentList[i])
     {
     Console.Write($"{element} \t");
     }
     Console.WriteLine();
-}
+} */
 
+/* for (int i = 0; i < studentList.Count; i++) {
+    foreach (var element in (Array)studentList[i])
+    {
+    Console.Write($"{element} \t"); 
+    }
+    Console.WriteLine();
+}  */
 
-/*     datosSt = (ArrayList)studentList[i];
-    Console.WriteLine(datosSt); */
-    
-/*     for (int e = 0; e < datosSt.Count; e++)
-    Console.Write($"{datosSt[e]} \t"); */
-
+for (int i = 0; i < studentList.Count; i++) {
+    foreach (var element in (Array)studentList[i])
+    {
+    Console.Write($"{element} \t"); 
+    }
+    Console.WriteLine();
+} 
