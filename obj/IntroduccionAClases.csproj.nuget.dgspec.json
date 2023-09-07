@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/IntroduccionAClases-C-/IntroduccionAClases.csproj": {}
+    "C:\\Users\\APM02-066\\Documents\\Trowa\\.net_c#\\clases\\IntroduccionAClases\\IntroduccionAClases.csproj": {}
   },
   "projects": {
-    "/workspaces/IntroduccionAClases-C-/IntroduccionAClases.csproj": {
+    "C:\\Users\\APM02-066\\Documents\\Trowa\\.net_c#\\clases\\IntroduccionAClases\\IntroduccionAClases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/IntroduccionAClases-C-/IntroduccionAClases.csproj",
+        "projectUniqueName": "C:\\Users\\APM02-066\\Documents\\Trowa\\.net_c#\\clases\\IntroduccionAClases\\IntroduccionAClases.csproj",
         "projectName": "IntroduccionAClases",
-        "projectPath": "/workspaces/IntroduccionAClases-C-/IntroduccionAClases.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/IntroduccionAClases-C-/obj/",
+        "projectPath": "C:\\Users\\APM02-066\\Documents\\Trowa\\.net_c#\\clases\\IntroduccionAClases\\IntroduccionAClases.csproj",
+        "packagesPath": "C:\\Users\\APM02-066\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APM02-066\\Documents\\Trowa\\.net_c#\\clases\\IntroduccionAClases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\APM02-066\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.306/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
